@@ -1,0 +1,17 @@
+C:\HLT\LTWC#\DoAnCoSoApp\bin\Debug\DoAnCoSoApp.exe.config
+C:\HLT\LTWC#\DoAnCoSoApp\bin\Debug\DoAnCoSoApp.exe
+C:\HLT\LTWC#\DoAnCoSoApp\bin\Debug\DoAnCoSoApp.pdb
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.csproj.AssemblyReference.cache
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.csproj.SuggestedBindingRedirects.cache
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.Properties.Resources.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.csproj.GenerateResource.cache
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.csproj.CoreCompileInputs.cache
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.exe
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.pdb
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.DangKyForm.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.DangNhapForm.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.MenuForm.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.QLCongNoForm.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.XemGiaForm.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.TinhTienForm.resources
+C:\HLT\LTWC#\DoAnCoSoApp\obj\Debug\DoAnCoSoApp.TienBanRaForm.resources
